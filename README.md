@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Julia!!!
-## I am a front-end developer from Moscow
+<p style="text-align: center;">## 👋 Hello, I'm Julia!!!</p>
+### I am a front-end developer from Moscow
 
 <br />
  ⚡ My skills and tools:
