@@ -11,7 +11,6 @@
 <br />
 ⚡ My skills and tools:
 HTML5
-![image alt <](/image-left.jpg)
 ![CSS3]('https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png')
 JavaScript
 BEM-методология
