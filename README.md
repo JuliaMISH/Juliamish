@@ -1,4 +1,5 @@
-<p style="text-align: center;">## 👋 Hello, I'm Julia!!!</p>
+<p style="text-align: center;">Centered text</p>
+## 👋 Hello, I'm Julia!!!
 ### I am a front-end developer from Moscow
 
 <br />
