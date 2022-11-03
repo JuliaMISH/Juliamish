@@ -5,22 +5,18 @@
   ⚡ I like:
 
   🎮 Computer games 
- 
   👟 Sport 
- 
   😸 Animals 
- 
   🎻🎨🧵🧶 I have a lot of cool things that I would like to do, but there is no time. But I'm calmer that I have them)
  
 <br />
-<br />
-⚡ My skills and tools:
-HTML5
-![CSS3]('https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png')
-JavaScript
-BEM-методология
-ES6/7/8
-Figma
+ ⚡ My skills and tools: 
+ HTML5 
+ ![CSS3]('https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png') 
+ JavaScript 
+ BEM-методология 
+ ES6/7/8 
+ Figma 
 <br />
 <hr>
 ⚡Best projects:
