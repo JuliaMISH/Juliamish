@@ -1,9 +1,6 @@
 👋 Hello, I'm Julia!!!
 <hr>
 <br />
-<br />
-
-
 ⚡ I like:
 
 🎮 Computer games
