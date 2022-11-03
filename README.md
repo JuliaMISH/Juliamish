@@ -6,7 +6,7 @@
 🎮 Computer games
 👟 Sport
 😸 Animals
-🎻🎨🧵🧶 I also have a lot of cool things that I would like to do, but there is no time. But I'm calmer that I have them)
+🎻🎨🧵🧶 I have a lot of cool things that I would like to do, but there is no time. But I'm calmer that I have them)
 <br />
 <br />
 ⚡ My skills and tools:
