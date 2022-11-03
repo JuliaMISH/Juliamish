@@ -16,17 +16,10 @@
  
  Figma 
  
-<br />
-<hr>
 ⚡Best projects:
 
 ### You can contact me:
 
-[][mail.ru]
-[][telegrams]
-
-[mail.ru]:juliamish@mail.ru
-[telegrams]:@Mishunia
 
 Hello there!
       <center><img src="" ...></center>
@@ -36,3 +29,10 @@ Hi!
 
 <!--
 **JuliaMISH/Juliamish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[][mail.ru]
+[][telegrams]
+
+[mail.ru]:juliamish@mail.ru
+[telegrams]:@Mishunia
