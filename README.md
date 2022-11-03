@@ -1,8 +1,9 @@
-👋 Hello, I'm Julia!!!
+## 👋 Hello, I'm Julia!!!
+I am a front-end developer from Moscow
+
 <hr>
 <br />
 ⚡ I like:
-
 🎮 Computer games
 👟 Sport
 😸 Animals
@@ -18,6 +19,8 @@ ES6/7/8
 Figma
 <br />
 <hr>
+⚡Best projects:
+
 ### You can contact me:
 
 [][mail.ru]
