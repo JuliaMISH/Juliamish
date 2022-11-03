@@ -10,6 +10,21 @@
 😸 Animals
 🎻🎨🧵🧶 I also have a lot of cool things that I would like to do, but there is no time. But I'm calmer that I have them)
 
+<br />
+<br />
+<br />
+
+
+⚡ My skills and tools:
+HTML5
+CSS3
+JavaScript
+BEM-методология
+ES6/7/8
+Figma
+
+
+
 
 
 
