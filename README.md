@@ -11,7 +11,7 @@
 <br />
 ⚡ My skills and tools:
 HTML5
-[<img aligt='left' width='26px' scr='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>][CSS3]
+[<img align='left' alt='CSS' width='26px' scr='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>][CSS3]
 JavaScript
 BEM-методология
 ES6/7/8
