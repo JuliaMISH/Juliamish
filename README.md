@@ -1,7 +1,6 @@
-## 👋 Hello, I'm Julia!!!
-### I am a front-end developer from Moscow
+# 👋 Hello, I'm Julia!!!
+## I am a front-end developer from Moscow
 
-<br />
   ⚡ I like:
   
 
