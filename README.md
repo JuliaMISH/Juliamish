@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Julia!!!
-I am a front-end developer from Moscow
+### I am a front-end developer from Moscow
 
-<hr>
 <br />
 ⚡ I like:
 🎮 Computer games
