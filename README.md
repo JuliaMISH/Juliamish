@@ -11,7 +11,7 @@
 <br />
 ⚡ My skills and tools:
 HTML5
-[<img align='left' alt='CSS' width='26px' scr='https://itproger.com/img/courses/1476977488.jpg'/>][CSS3]
+[CSS3](<img align='left' alt='CSS' width='26px' scr='https://itproger.com/img/courses/1476977488.jpg' />)
 JavaScript
 BEM-методология
 ES6/7/8
