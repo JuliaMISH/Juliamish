@@ -24,6 +24,3 @@ ____
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me:)
 [![https://web.telegram.org/z/](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mishunia "пишите мне и я отвечу!")
 
-[![Логотип Google](http://www.google.com/images/logo.gif)](http://www.google.com/ "щелкните, чтобы посетить Google.com")
-
-
