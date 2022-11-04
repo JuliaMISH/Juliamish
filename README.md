@@ -11,9 +11,11 @@
 <img align='left' alt='
 JavaScript' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
 <img align='left' alt='Python' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' />
-<img align='left' alt='Figma' width='35px' src='https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_171159.png' /> 
+<img align='left' alt='Figma' width='35px' src='https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_171159.png' />
+
  
   ⚡Best projects:  
+  
 
 ### You can contact me:
 
