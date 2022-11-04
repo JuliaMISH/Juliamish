@@ -3,7 +3,7 @@
 <h3 align="center"> I am a front-end developer from Moscow</h3>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+front-end+developer+from+Moscow:)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+can+contact+me:)
 
 ⚡+My+skills+and+tools:
 
