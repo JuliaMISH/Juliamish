@@ -24,6 +24,6 @@ ____
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me:)
 <p align="left"> 
   
-[![https://web.telegram.org/z/](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mishunia "пишите мне и я отвечу!") [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://juliamish2017@gmail.com "пишите мне и я отвечу!")
+[![https://web.telegram.org/z/](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mishunia "пишите мне и я отвечу!") [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliamish2017@gmail.com "пишите мне и я отвечу!")
   
 </p>
