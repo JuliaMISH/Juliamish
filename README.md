@@ -12,6 +12,7 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  | проект  |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  | Content Cell  |
 
+____
 
 
 
@@ -23,13 +24,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me:)
 
 
-[][mail.ru]
-[][telegrams]
 
-<h1 align="center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+can+contact+me:)</h1>
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+can+contact+me:)
-
-[mail.ru]:juliamish@mail.ru
-[telegrams]:@Mishunia
