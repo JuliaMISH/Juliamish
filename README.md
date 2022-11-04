@@ -5,7 +5,7 @@
 
 
 
-⚡+My+skills+and+projects:
+⚡ My skills and projects:
 
 <img align='left' alt='HTML5' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' />
 <img align='left' alt='HTML5' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' />
@@ -14,15 +14,17 @@
 JavaScript' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
 <img align='left' alt='Python' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' />
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)  | проект  |
+| Content Cell  | Content Cell  |
+
 <br>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=⚡+My+Best+projects:)
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)  | проект  |
-| Content Cell  | Content Cell  |
+
   
 
 ### You can contact me:
