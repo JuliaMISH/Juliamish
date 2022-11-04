@@ -22,6 +22,7 @@ ____
   
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me:)
+[<img align='left' alt='Telegram' src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>][]
 
 
 
