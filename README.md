@@ -26,4 +26,6 @@ ____
   
 [![https://web.telegram.org/z/](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mishunia "пишите мне и я отвечу!")
   
+ [![https://web.telegram.org/z/](https://avatars.mds.yandex.net/i?id=cd68c2057fe054e9bfbc6aa3f7d02259-5604149-images-thumbs&n=13)](https://t.me/Mishunia "пишите мне и я отвечу!")
+  
 </p>
