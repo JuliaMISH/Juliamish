@@ -17,7 +17,7 @@ JavaScript' width='26px' src='https://raw.githubusercontent.com/github/explore/8
 
 
 
-                           ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines= ⚡+My+Best+projects:)
+                           ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=⚡+My+Best+projects:)
 
 | First Header  | Second Header |
 | ------------- | ------------- |
