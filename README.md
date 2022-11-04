@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![](https://komarev.com/ghpvc/?username=JuliaMISH&color=green)
 <h3 align="center"> I am a front-end developer from Moscow</h3>
-<h3 align="center"> You can contact me </h3>
-
 
 
 ⚡ My skills and projects:
@@ -22,7 +20,7 @@
 
   
 
-### You can contact me:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me:)
 
 
 Hello there!
