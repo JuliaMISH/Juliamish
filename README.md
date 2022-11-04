@@ -26,5 +26,5 @@ ____
   
 [![Телеграмм](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mishunia "пишите мне и я отвечу!") 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliamish2017@gmail.com "пишите мне и я отвечу!")
-[111&Color=white]
+                                                           
 [![Хэппи](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR66LFVky5jphTfbS3CLJLP4AkFSUh2QmSPfg&usqp=CAU)](# "или не пишите...")</p>
