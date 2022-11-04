@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Julia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![123](https://komarev.com/ghpvc/?username=Juliamish)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JuliaMISH&label=Profile%20views&color=ce9927&style=flat" alt="JuliaMISH" /> </p>
 <h3 align="center"> I am a front-end developer from Moscow</h3>
 
