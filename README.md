@@ -1,7 +1,7 @@
 <h1 align="center">Привет,  я <a href="https://daniilshat.ru/" target="_blank">Julia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JuliaMISH&label=Profile%20views&color=green&style=flat" alt="JuliaMISH" /> </p>
-<h3 align="center"> Я технический писатель, который стремится сделать документацию доступной и понятной для всех и может немного в код ʕ ᵔᴥᵔ ʔ </h3>
+<h3 align="center"> Я технический писатель, который стремится сделать документацию доступной и понятной для всех и может немного в код :pencil: </h3>
 
 
 ⚡ Мои примеры кода, документации и pet-проектов:
@@ -16,12 +16,8 @@
 
 ____
 
-:EMOJICODE::grinning:  
 
-:grinning:
 
-:memo:
-:pencil:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me!)
 
