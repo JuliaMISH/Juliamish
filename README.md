@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Julia</a> 
+<h1 align="center">Привет,  я <a href="https://daniilshat.ru/" target="_blank">Julia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JuliaMISH&label=Profile%20views&color=green&style=flat" alt="JuliaMISH" /> </p>
-<h3 align="center"> I am a front-end developer from Moscow</h3>
+<h3 align="center"> Я технический писатель, который стремится сделать документацию доступной и понятной для всех. </h3>
 
 
 ⚡ My skills and projects:
