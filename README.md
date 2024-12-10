@@ -20,7 +20,8 @@ ____
 
 :grinning:
 
-
+:memo:
+:pencil:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=📧+You+can+contact+me!)
 
