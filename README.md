@@ -9,7 +9,7 @@
 | ------------- | ------------- |
 | [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) |[Проект](#)  |
 | [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#)|[![Card_holder_art](https://img.shields.io/badge/Card_holder_art-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaMISH/card_holder_art)
-| [![Documentation](http://www.w3.org/2000/svg)](#)|[Проект](#)|
+| [![Documentation](<i class="fa-brands fa-confluence"></i>)](#)|[Проект](#)|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)|[![News portal](https://img.shields.io/badge/News_Portal-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaMISH/News-portal) [![Alice's skills](https://img.shields.io/badge/Alice's_skills-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaMISH/Alice_Skill.git)
 
 
