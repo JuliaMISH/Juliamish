@@ -4,12 +4,12 @@
 <h3 align="center"> Я технический писатель, который стремится сделать документацию доступной и понятной для всех и может немного в код ʕ ᵔᴥᵔ ʔ </h3>
 
 
-⚡ My skills and projects:
-| 💻Technology  | 🐥Project|
+⚡ Мои примеры кода, документации и pet-проектов:
+| 💻Technology  | 🚀Project|
 | ------------- | ------------- |
 | [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) |[Проект](#)  |
 | [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#)|[![Card_holder_art](https://img.shields.io/badge/Card_holder_art-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaMISH/card_holder_art)
-| [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)|[Проект](#)|
+| [![Documentation](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)|[Проект](#)|
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)|[![News portal](https://img.shields.io/badge/News_Portal-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaMISH/News-portal) [![Alice's skills](https://img.shields.io/badge/Alice's_skills-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuliaMISH/Alice_Skill.git)
 
 
